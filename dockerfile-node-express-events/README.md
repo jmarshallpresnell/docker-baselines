@@ -1,0 +1,1 @@
+##### A generic Dockerfile for an express API application with an event handler (event sourcing)

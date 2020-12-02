@@ -1,0 +1,1 @@
+##### A generic Dockerfile for a PHP Slim API application

@@ -1,0 +1,1 @@
+##### A generic Dockerfile for a Single Page Web Application (SPA)

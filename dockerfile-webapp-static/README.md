@@ -1,0 +1,1 @@
+##### A generic Dockerfile for a static web site
