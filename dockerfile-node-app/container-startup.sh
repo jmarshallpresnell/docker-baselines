@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "--- (csu) Container startup code running (nodeApp container)"
+echo "--- (csu) Container startup code (csu) running (in base-node container)"
 
 # Fallback aliveness option ("cat /tmp/container-alive")
 touch /tmp/container-alive
